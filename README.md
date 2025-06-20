@@ -1,6 +1,6 @@
 # Knuckledragger
 
-<img src="https://raw.githubusercontent.com/philzook58/knuckledragger/main/docs/logo.webp" alt="drawing" width="200" align="left"/>
+<img src="https://raw.githubusercontent.com/Aanthord/knuckledragger/main/docs/logo.webp" alt="drawing" width="200" align="left"/>
 
 Knuckledragger is an attempt at creating a down to earth, highly automated interactive proof assistant in python. It is not attempting to be the most interesting, expressive, or flexible logic in the world. The goal is to support applications like software/hardware verification, calculus, equational reasoning, and numerical bounds.
 
@@ -9,7 +9,7 @@ Knuckledragger is an attempt at creating a down to earth, highly automated inter
 ## Installation
 
 ```bash
-python3 -m pip install git+https://github.com/philzook58/knuckledragger.git
+python3 -m pip install git+https://github.com/Aanthord/knuckledragger.git
 python3 -m kdrag.solvers install # install extra solvers
 ```
 
@@ -24,7 +24,7 @@ python3 -m pip install -e .
 
 ## Getting Started
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/philzook58/knuckledragger/blob/main/tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Aanthord/knuckledragger/blob/main/tutorial.ipynb)
 
 ```python
 import kdrag as kd
